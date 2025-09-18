@@ -3,7 +3,7 @@
 ## Materials
 
 - 1 red and 1 blue 5mm LED
-- 2 65 Ω (Ohm) resistors
+- 2 130 Ω (Ohm) resistors
 - 7 male-to-male jumper wires
 
 ## Part 1: Blink Red, Blink Blue 
